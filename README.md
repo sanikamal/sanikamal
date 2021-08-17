@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi, I'm Sani Kamal
+<!-- 👀 I’m interested in Python Programming especially desgining different machine learning and deep learning workflows. -->
+📫 How to reach me: you can send me an e-mail at sanikamal223@gmail.com
 
 <!--
 **sanikamal/sanikamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
