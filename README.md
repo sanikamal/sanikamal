@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GCP Vertex AI and AWS SageMaker**
 
-- 📝 I regularly write articles on [http://ruadroid.blogspot.com/](http://ruadroid.blogspot.com/)
+<!-- - 📝 I regularly write articles on [http://ruadroid.blogspot.com/](http://ruadroid.blogspot.com/) -->
 
 - 💬 Ask me about **Web Development, Machine Learning**
 
