@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sani Kamal</h1>
 <h3 align="center">A passionate Full Stack Web Developer and Freelance Software Engineer from India. I take great care in the experience, architecture, and code quality of the things that I build. I am also AI and Machine Learning enthusiast.</h3>
 
-- 🌱 I’m currently learning **GCP Vertex AI and AWS SageMaker**
+- 🌱 I’m currently learning **Cloud Computing**
 
 <!-- - 📝 I regularly write articles on [http://ruadroid.blogspot.com/](http://ruadroid.blogspot.com/) -->
 
