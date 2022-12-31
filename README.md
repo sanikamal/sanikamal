@@ -5,7 +5,7 @@
 
 <!-- - 📝 I regularly write articles on [http://ruadroid.blogspot.com/](http://ruadroid.blogspot.com/) -->
 
-- 💬 Ask me about **Web Development, Machine Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning and Web Development**
 
 - 📫 How to reach me **sanikamal223@gmail.com**
 
