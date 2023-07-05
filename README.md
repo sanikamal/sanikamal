@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sani Kamal</h1>
-<h3 align="center">A passionate Full Stack Web Developer and Freelance Software Engineer from India. I take great care in the experience, architecture, and code quality of the things that I build. I am also AI and Machine Learning enthusiast.</h3>
+<h3 align="center">I am a dedicated Machine Learning engineer with a passion for developing cutting-edge AI solutions. Hailing from India, I possess strong expertise in full-stack web development and software engineering. My focus lies in crafting exceptional user experiences, robust architectures, and high-quality code. I am deeply intrigued by the limitless possibilities of AI and Machine Learning, and I continually seek to push the boundaries of innovation in this field.</h3>
 
 - 🌱 I’m currently learning **Cloud Computing**
 
