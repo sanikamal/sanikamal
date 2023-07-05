@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sani Kamal</h1>
-<h3 align="center">I am a dedicated Machine Learning engineer with a passion for developing cutting-edge AI solutions. Hailing from India, I possess strong expertise in full-stack web development and software engineering. My focus lies in crafting exceptional user experiences, robust architectures, and high-quality code. I am deeply intrigued by the limitless possibilities of AI and Machine Learning, and I continually seek to push the boundaries of innovation in this field.</h3>
+<h3 align="center">I am a dedicated Machine Learning Engineer with a passion for developing cutting-edge AI solutions. Hailing from India, I possess strong expertise in Full-Stack Web Development and Cloud Computing. My focus lies in crafting exceptional user experiences, robust architectures, and high-quality code. I am deeply intrigued by the limitless possibilities of AI and Machine Learning, and I continually seek to push the boundaries of innovation in this field. Additionally, as a Google Cloud Platform (GCP) certified Associate Cloud Engineer, my proficiency in deploying and managing cloud-based solutions is further enhanced. This enables me to leverage the power of scalable infrastructure for AI projects.</h3>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **LLM, Langchain**
 
 <!-- - 📝 I regularly write articles on [http://ruadroid.blogspot.com/](http://ruadroid.blogspot.com/) -->
 
