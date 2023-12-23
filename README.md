@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sani Kamal</h1>
+<h1>Hi 👋, I'm Sani Kamal</h1>
 <p align="center">I am a dedicated Machine Learning Engineer with a passion for developing cutting-edge AI solutions. Hailing from India, I possess strong expertise in Full-Stack Web Development and Cloud Computing. My focus lies in crafting exceptional user experiences, robust architectures, and high-quality code. I am deeply intrigued by the limitless possibilities of AI and Machine Learning, and I continually seek to push the boundaries of innovation in this field. Additionally, as a Google Cloud Platform (GCP) certified Associate Cloud Engineer, my proficiency in deploying and managing cloud-based solutions is further enhanced. This enables me to leverage the power of scalable infrastructure for AI projects.</p>
 
 - 🌱 I’m currently learning **LLM, Langchain**
@@ -9,7 +9,6 @@
 
 -  📝 I regularly write articles on [Medium](https://sanikamal.medium.com/)
 
-[![Harshal Jadhav Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=sanikamal)](https://medium.com/@sanikamal)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sani_kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sani_kamal" height="30" width="40" /></a>
