@@ -7,10 +7,9 @@
 
 - 📫 How to reach me **sanikamal223@gmail.com**
 
-- - 📝 I regularly write articles on [Medium](https://sanikamal.medium.com/)
+-  📝 I regularly write articles on [Medium](https://sanikamal.medium.com/)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sanikamal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sanikamal/1" alt="Recent article #1"></a>
-
+[![Harshal Jadhav Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=sanikamal)](https://medium.com/@sanikamal)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sani_kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sani_kamal" height="30" width="40" /></a>
