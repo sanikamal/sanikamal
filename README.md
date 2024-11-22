@@ -1,5 +1,5 @@
 <h1>Hi 👋,</h1>
-<p align="center">I am a passionate Machine Learning Engineer with a focus on Prompt Engineering and Large Language Models (LLM). Originating from India, I bring strong expertise in Full-Stack Web Development and Cloud Computing. My commitment lies in crafting exceptional user experiences, architecting robust systems, and producing high-quality code. I am deeply intrigued by the limitless possibilities of AI and Machine Learning, and I continually seek to push the boundaries of innovation in this field. Additionally, as a Google Cloud Platform (GCP) certified Associate Cloud Engineer, my proficiency in deploying and managing cloud-based solutions is further enhanced. This enables me to leverage the power of scalable infrastructure for AI projects.</p>
+<p align="center">I am a Machine Learning Engineer specializing in Prompt Engineering and Large Language Models (LLM), with expertise in Full-Stack Web Development and Cloud Computing. Certified as a <b>Google Cloud Platform Certified Associate Cloud Engineer</b>, <b>Databricks Certified Generative AI Engineer Associate</b>, and <b>Oracle Cloud Infrastructure 2024 Generative AI Certified Professional</b>, I focus on delivering high-quality AI solutions by leveraging scalable cloud infrastructure and cutting-edge technologies.</p>
 
 - 🌱 I’m currently learning **LLM, Langchain**
 
