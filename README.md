@@ -1,7 +1,7 @@
 ### Hi there👋,
 I am Sani Kamal, a Machine Learning and Generative AI Engineer passionate about building innovative solutions that bridge technology and real-world impact. My expertise spans **Large Language Models (LLMs)**, **Prompt Engineering**, **Computer Vision**, **Deep Learning**, **Image Segmentation**, **Image Classification**, **Object Detection**, **Object Tracking**, **Machine Learning**, **Artificial Intelligence**, **Cloud Computing**, and **Full-Stack Web Development**, allowing me to deliver scalable, high-quality AI-driven applications.
 
-I have experience across diverse projects, including **Career Advisor Chatbot**,**LLM Benchmarking API**, **Question-Answering System on Private Documents**, **Drowsy Driver Detection**, **Custom Object Detectors (YOLO)**, **Text Detection and Recognition**, **Image Segmentation**, and **Face Recognition**, showcasing my versatility and problem-solving capabilities in the field. With a strong foundation in deep learning and a commitment to excellence, I am dedicated to delivering impactful and innovative AI solutions.
+I have experience across diverse projects, including **Career Advisor Chatbot**, **LLM Benchmarking API**, **Question-Answering System on Private Documents**, **Drowsy Driver Detection**, **Custom Object Detectors (YOLO)**, **Text Detection and Recognition**, **Image Segmentation**, and **Face Recognition**, showcasing my versatility and problem-solving capabilities in the field. With a strong foundation in deep learning and a commitment to excellence, I am dedicated to delivering impactful and innovative AI solutions.
 
 Certified as a **Google Cloud Platform Associate Cloud Engineer**, **Databricks Generative AI Engineer Associate**, **Oracle Cloud Infrastructure Generative AI Certified Associate**, and **Oracle Cloud Infrastructure Generative AI Certified Professional**, I leverage cutting-edge technologies and cloud infrastructure to create robust solutions tailored to specific needs.  
 
@@ -31,9 +31,20 @@ Additionally, I specialize in developing full-stack AI platforms and scalable Sa
 | **Databases**            | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&size=40x40)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&size=40x40) ![SQLite3](https://img.shields.io/badge/-SQLite3-003B57?style=flat&logo=sqlite&logoColor=white&size=40x40) |
 ---
 
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanikamal&show_icons=true&locale=en&layout=compact" alt="sanikamal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanikamal&show_icons=true&locale=en" alt="sanikamal" /></p>
+
+---
+
+### Blog Posts
+
+🚀 Check out my blog on [Medium](https://medium.com/@sanikamal) where I share my findings on AI, Generative AI, Computer Vision, NLP, and Data Science!
+
+
+| Date       | Title                                                                                                                           |
+|:-----------|:--------------------------------------------------------------------------------------------------------------------------------|
+| Mar 13, 2024 | [Visual Question Answering: Bridging the Gap Between Vision and Language🖼️🤖](https://medium.com/@sanikamal/visual-question-answering-bridging-the-gap-between-vision-and-language-%EF%B8%8F-9c3efd5e31f4)|
+| Mar 11, 2024 | [Streamlit for Data Science: Mastering Data](https://medium.com/@sanikamal/streamlit-for-data-science-mastering-data-7211c1060412)                                                          |
+| Mar 10, 2024 | [Streamlit for Data Science: Building Your First Interactive Data App](https://medium.com/@sanikamal/streamlit-for-data-science-building-your-first-interactive-data-app-b86c36be5e90)                                                                           |
+|Dec 30, 2023| [Langchain — Chains Module: A Study Guide🦜️🔗]([https://medium.com/@shamiulislamnoyon/learning-artificial-intelligence-in-healthcare-7c111fbbe261](https://medium.com/@sanikamal/langchain-chains-module-concept-a-study-guide-98e2d2fa5414))                                                             |
