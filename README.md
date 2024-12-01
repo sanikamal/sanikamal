@@ -1,13 +1,11 @@
-<h1>Hi 👋,</h1>
-<p align="center">I am a Machine Learning Engineer specializing in Prompt Engineering and Large Language Models (LLM), with expertise in Full-Stack Web Development and Cloud Computing. Certified as a <b>Google Cloud Platform Certified Associate Cloud Engineer</b>, <b>Databricks Certified Generative AI Engineer Associate</b>, and <b>Oracle Cloud Infrastructure 2024 Generative AI Certified Professional</b>, I focus on delivering high-quality AI solutions by leveraging scalable cloud infrastructure and cutting-edge technologies.</p>
+### Hi there👋,
+I am Sani Kamal, a Machine Learning and Generative AI Engineer passionate about building innovative solutions that bridge technology and real-world impact. My expertise spans **Large Language Models (LLMs)**, **Prompt Engineering**, **Computer Vision**, **Deep Learning**, **Image Segmentation**, **Image Classification**, **Object Detection**, **Object Tracking**, **Machine Learning**, **Artificial Intelligence**, **Cloud Computing**, and **Full-Stack Web Development**, allowing me to deliver scalable, high-quality AI-driven applications.
 
-- 🌱 I’m currently learning **LLM, Langchain**
+I have experience across diverse projects, including **generative AI applications**, **Career Advisor Chatbot**,**LLM Benchmarking API**, **Question-Answering System on Private Documents**, **Drowsy Driver Detection**, **Custom Object Detectors (YOLO)**, **Text Detection and Recognition**, **Image Segmentation**, and **Face Recognition**, showcasing my versatility and problem-solving capabilities in the field. With a strong foundation in deep learning and a commitment to excellence, I am dedicated to delivering impactful and innovative AI solutions.
 
-- 💬 Ask me about **Prompt Engineering, Machine Learning, Deep Learning and Web Development**
+Certified as a **Google Cloud Platform Associate Cloud Engineer**, **Databricks Generative AI Engineer Associate**, **Oracle Cloud Infrastructure Generative AI Certified Associate**, and **Oracle Cloud Infrastructure Generative AI Certified Professional**, I leverage cutting-edge technologies and cloud infrastructure to create robust solutions tailored to specific needs.  
 
-- 📫 How to reach me **sanikamal223@gmail.com**
-
--  📝 I regularly write articles on [Medium](https://sanikamal.medium.com/)
+Additionally, I specialize in developing full-stack AI platforms and scalable SaaS solutions, combining advanced AI capabilities with seamless user experiences to create impactful and efficient systems. With a strong foundation in **Vertex AI**, **Google Cloud's AI and Machine Learning APIs.**, and **Cloud-Native AI**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
